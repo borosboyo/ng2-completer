@@ -8,7 +8,7 @@ Click for [demo](http://oferh.github.io/ng2-completer/) or [plunk](https://plnkr
 
 ## DISCLAIMER
 
-This is a fork version of the original ng2-completer library (github.com/oferh/ng2-completer). The original library is not maintained anymore, so I made it compatible with Angular Ivy for future Angular versions. All credits go to the original author.
+This is a fork version of the original ng2-completer library (https://github.com/borosboyo/ng2-completer.git). The original library is not maintained anymore, so I made it compatible with Angular Ivy for future Angular versions. All credits go to the original author.
 
 Now read the original README.md below.
 
