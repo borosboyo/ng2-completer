@@ -6,6 +6,12 @@ This component is based on [angucomplete-alt](https://github.com/ghiden/angucomp
 
 Click for [demo](http://oferh.github.io/ng2-completer/) or [plunk](https://plnkr.co/edit/sVnfpBiEb5jBdtul4ls9?p=preview)
 
+## DISCLAIMER
+
+This is a fork version of the original ng2-completer library (github.com/oferh/ng2-completer). The original library is not maintained anymore, so I made it compatible with Angular Ivy for future Angular versions. All credits go to the original author.
+
+Now read the original README.md below.
+
 ## Help needed
 I don't use this library much anymore and don't have time to properly maintain it.
 If you are currently using ng2-completer and interested to maintain it please let me know!
